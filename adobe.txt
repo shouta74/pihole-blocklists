@@ -1,96 +1,96 @@
-127.0.0.1 activate.adobe.com
-127.0.0.1 practivate.adobe.com
-127.0.0.1 ereg.adobe.com
-127.0.0.1 wip3.adobe.com
-127.0.0.1 activate.wip3.adobe.com
-127.0.0.1 3dns-3.adobe.com
-127.0.0.1 3dns-2.adobe.com
-127.0.0.1 adobe-dns.adobe.com
-127.0.0.1 adobe-dns-2.adobe.com
-127.0.0.1 adobe-dns-3.adobe.com
-127.0.0.1 ereg.wip3.adobe.com
-127.0.0.1 activate-sea.adobe.com
-127.0.0.1 wwis-dubc1-vip60.adobe.com
-127.0.0.1 activate-sjc0.adobe.com
-127.0.0.1 hl2rcv.adobe.com
-127.0.0.1 lm.licenses.adobe.com
-127.0.0.1 na2m-pr.licenses.adobe.com
-127.0.0.1 lmlicenses.wip4.adobe.com
-127.0.0.1 lm.licenses.adobe.com
-127.0.0.1 na1r.services.adobe.com
-127.0.0.1 hlrcv.stage.adobe.com
-127.0.0.1 practivate.adobe.com
-127.0.0.1 activate.adobe.com
-0.0.0.0 activate.adobe.com
-0.0.0.0 practivate.adobe.com
-0.0.0.0 ereg.adobe.com
-0.0.0.0 wip3.adobe.com
-0.0.0.0 activate.wip3.adobe.com
-0.0.0.0 3dns-3.adobe.com
-0.0.0.0 3dns-2.adobe.com
-0.0.0.0 adobe-dns.adobe.com
-0.0.0.0 adobe-dns-2.adobe.com
-0.0.0.0 adobe-dns-3.adobe.com
-0.0.0.0 ereg.wip3.adobe.com
-0.0.0.0 activate-sea.adobe.com
-0.0.0.0 wwis-dubc1-vip60.adobe.com
-0.0.0.0 activate-sjc0.adobe.com
-0.0.0.0 hl2rcv.adobe.com
-0.0.0.0 lmlicenses.wip4.adobe.com
-0.0.0.0 lm.licenses.adobe.com
-0.0.0.0 na2m-pr.licenses.adobe.com
-0.0.0.0 ims-na1-prprod.adobelogin.com
-0.0.0.0 na4r.services.adobe.com
-0.0.0.0 na1r.services.adobe.com
-0.0.0.0 hlrcv.stage.adobe.com
-0.0.0.0 3dns-1.adobe.com
-0.0.0.0 3dns-2.adobe.com
-0.0.0.0 3dns-3.adobe.com
-0.0.0.0 3dns-4.adobe.com
-0.0.0.0 3dns.adobe.com
-0.0.0.0 activate-sea.adobe.com
-0.0.0.0 activate-sjc0.adobe.com
-0.0.0.0 activate.adobe.com
-0.0.0.0 activate.wip.adobe.com
-0.0.0.0 activate.wip1.adobe.com
-0.0.0.0 activate.wip2.adobe.com
-0.0.0.0 activate.wip3.adobe.com
-0.0.0.0 activate.wip4.adobe.com
-0.0.0.0 adobe-dns-1.adobe.com
-0.0.0.0 adobe-dns-2.adobe.com
-0.0.0.0 adobe-dns-3.adobe.com
-0.0.0.0 adobe-dns-4.adobe.com
-0.0.0.0 adobe-dns.adobe.com
-0.0.0.0 adobe.activate.com
-0.0.0.0 adobeereg.com
-0.0.0.0 ereg.adobe.com
-0.0.0.0 ereg.wip.adobe.com
-0.0.0.0 ereg.wip1.adobe.com
-0.0.0.0 ereg.wip2.adobe.com
-0.0.0.0 ereg.wip3.adobe.com
-0.0.0.0 ereg.wip4.adobe.com
-0.0.0.0 hl2rcv.adobe.com
-0.0.0.0 hlrcv.stage.adobe.com
-0.0.0.0 lm.licenses.adobe.com
-0.0.0.0 lmlicenses.wip4.adobe.com
-0.0.0.0 na1r.services.adobe.com
-0.0.0.0 na2m-pr.licenses.adobe.com
-0.0.0.0 practivate.adobe.com
-0.0.0.0 practivate.adobe.ipp
-0.0.0.0 practivate.adobe.newoa
-0.0.0.0 practivate.adobe.ntp
-0.0.0.0 wip.adobe.com
-0.0.0.0 wip1.adobe.com
-0.0.0.0 wip2.adobe.com
-0.0.0.0 wip3.adobe.com
-0.0.0.0 wip3.adobe.com
-0.0.0.0 wip4.adobe.com
-0.0.0.0 wwis-dubc1-vip60.adobe.com
-0.0.0.0 www.adobeereg.com
-0.0.0.0 www.wip.adobe.com
-0.0.0.0 www.wip1.adobe.com
-0.0.0.0 www.wip2.adobe.com
-0.0.0.0 www.wip3.adobe.com
-0.0.0.0 www.wip4.adobe.com
-127.0.0.1 genuine.adobe.com
-127.0.0.1 prod.adobegenuine.com
+activate.adobe.com
+practivate.adobe.com
+ereg.adobe.com
+wip3.adobe.com
+activate.wip3.adobe.com
+3dns-3.adobe.com
+3dns-2.adobe.com
+adobe-dns.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+ereg.wip3.adobe.com
+activate-sea.adobe.com
+wwis-dubc1-vip60.adobe.com
+activate-sjc0.adobe.com
+hl2rcv.adobe.com
+lm.licenses.adobe.com
+na2m-pr.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+lm.licenses.adobe.com
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
+practivate.adobe.com
+activate.adobe.com
+activate.adobe.com
+practivate.adobe.com
+ereg.adobe.com
+wip3.adobe.com
+activate.wip3.adobe.com
+3dns-3.adobe.com
+3dns-2.adobe.com
+adobe-dns.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+ereg.wip3.adobe.com
+activate-sea.adobe.com
+wwis-dubc1-vip60.adobe.com
+activate-sjc0.adobe.com
+hl2rcv.adobe.com
+lmlicenses.wip4.adobe.com
+lm.licenses.adobe.com
+na2m-pr.licenses.adobe.com
+ims-na1-prprod.adobelogin.com
+na4r.services.adobe.com
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
+3dns-1.adobe.com
+3dns-2.adobe.com
+3dns-3.adobe.com
+3dns-4.adobe.com
+3dns.adobe.com
+activate-sea.adobe.com
+activate-sjc0.adobe.com
+activate.adobe.com
+activate.wip.adobe.com
+activate.wip1.adobe.com
+activate.wip2.adobe.com
+activate.wip3.adobe.com
+activate.wip4.adobe.com
+adobe-dns-1.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+adobe-dns-4.adobe.com
+adobe-dns.adobe.com
+adobe.activate.com
+adobeereg.com
+ereg.adobe.com
+ereg.wip.adobe.com
+ereg.wip1.adobe.com
+ereg.wip2.adobe.com
+ereg.wip3.adobe.com
+ereg.wip4.adobe.com
+hl2rcv.adobe.com
+hlrcv.stage.adobe.com
+lm.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+na1r.services.adobe.com
+na2m-pr.licenses.adobe.com
+practivate.adobe.com
+practivate.adobe.ipp
+practivate.adobe.newoa
+practivate.adobe.ntp
+wip.adobe.com
+wip1.adobe.com
+wip2.adobe.com
+wip3.adobe.com
+wip3.adobe.com
+wip4.adobe.com
+wwis-dubc1-vip60.adobe.com
+www.adobeereg.com
+www.wip.adobe.com
+www.wip1.adobe.com
+www.wip2.adobe.com
+www.wip3.adobe.com
+www.wip4.adobe.com
+genuine.adobe.com
+prod.adobegenuine.com
