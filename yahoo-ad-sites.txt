@@ -10,7 +10,6 @@
 127.0.0.1 us.f1.yimg.com
 127.0.0.1 us.g1.yimg.com
 127.0.0.1 us.h1.yimg.com
-#127.0.0.1 us.i1.yimg.com	#Uncomment this to block yahoo images
 127.0.0.1 us.j1.yimg.com
 127.0.0.1 us.k1.yimg.com
 127.0.0.1 us.l1.yimg.com
