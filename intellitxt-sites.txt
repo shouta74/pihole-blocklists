@@ -1,103 +1,103 @@
-127.0.0.1 1up.us.intellitxt.com
-127.0.0.1 5starhiphop.us.intellitxt.com
-127.0.0.1 askmen2.us.intellitxt.com
-127.0.0.1 bargainpda.us.intellitxt.com
-127.0.0.1 businesspundit.us.intellitxt.com
-127.0.0.1 canadafreepress.us.intellitxt.com
-127.0.0.1 contactmusic.uk.intellitxt.com
-127.0.0.1 ctv.us.intellitxt.com
-127.0.0.1 designtechnica.us.intellitxt.com
-127.0.0.1 devshed.us.intellitxt.com
-127.0.0.1 digitaltrends.us.intellitxt.com
-127.0.0.1 dnps.us.intellitxt.com
-127.0.0.1 doubleviking.us.intellitxt.com
-127.0.0.1 drizzydrake.us.intellitxt.com
-127.0.0.1 ehow.us.intellitxt.com
-127.0.0.1 entertainment.msnbc.us.intellitxt.com
-127.0.0.1 examnotes.us.intellitxt.com
-127.0.0.1 excite.us.intellitxt.com
-127.0.0.1 experts.us.intellitxt.com
-127.0.0.1 extremetech.us.intellitxt.com
-127.0.0.1 ferrago.uk.intellitxt.com
-127.0.0.1 filmschoolrejects.us.intellitxt.com
-127.0.0.1 filmwad.us.intellitxt.com
-127.0.0.1 firstshowing.us.intellitxt.com
-127.0.0.1 flashmagazine.us.intellitxt.com
-127.0.0.1 foxnews.us.intellitxt.com
-127.0.0.1 foxtv.us.intellitxt.com
-127.0.0.1 freedownloadcenter.uk.intellitxt.com
-127.0.0.1 gadgets.fosfor.se.intellitxt.com
-127.0.0.1 gamesradar.us.intellitxt.com
-127.0.0.1 gannettbroadcast.us.intellitxt.com
-127.0.0.1 gonintendo.us.intellitxt.com
-127.0.0.1 gorillanation.us.intellitxt.com
-127.0.0.1 hackedgadgets.us.intellitxt.com
-127.0.0.1 hardcoreware.us.intellitxt.com
-127.0.0.1 hardocp.us.intellitxt.com
-127.0.0.1 hothardware.us.intellitxt.com
-127.0.0.1 hotonlinenews.us.intellitxt.com
-127.0.0.1 ign.us.intellitxt.com
-127.0.0.1 images.intellitxt.com
-127.0.0.1 itxt2.us.intellitxt.com
-127.0.0.1 joblo.us.intellitxt.com
-127.0.0.1 johnchow.us.intellitxt.com
-127.0.0.1 laptopmag.us.intellitxt.com
-127.0.0.1 linuxforums.us.intellitxt.com
-127.0.0.1 maccity.it.intellitxt.com
-127.0.0.1 macnn.us.intellitxt.com
-127.0.0.1 macuser.uk.intellitxt.com
-127.0.0.1 macworld.uk.intellitxt.com
-127.0.0.1 metro.uk.intellitxt.com
-127.0.0.1 mobile9.us.intellitxt.com
-127.0.0.1 monstersandcritics.uk.intellitxt.com
-127.0.0.1 moviesonline.ca.intellitxt.com
-127.0.0.1 mustangevolution.us.intellitxt.com
-127.0.0.1 neowin.us.intellitxt.com
-127.0.0.1 newcarnet.uk.intellitxt.com
-127.0.0.1 newlaunches.uk.intellitxt.com
-127.0.0.1 nexys404.us.intellitxt.com
-127.0.0.1 ohgizmo.us.intellitxt.com
-127.0.0.1 pcadvisor.uk.intellitxt.com
-127.0.0.1 pcgameshardware.de.intellitxt.com
-127.0.0.1 pcmag.us.intellitxt.com
-127.0.0.1 pcper.us.intellitxt.com
-127.0.0.1 penton.us.intellitxt.com
-127.0.0.1 physorg.uk.intellitxt.com
-127.0.0.1 physorg.us.intellitxt.com
-127.0.0.1 playfuls.uk.intellitxt.com
-127.0.0.1 pocketlint.uk.intellitxt.com
-127.0.0.1 popularmechanics.us.intellitxt.com
-127.0.0.1 postchronicle.us.intellitxt.com
-127.0.0.1 projectorreviews.us.intellitxt.com
-127.0.0.1 psp3d.us.intellitxt.com
-127.0.0.1 pspcave.uk.intellitxt.com
-127.0.0.1 qj.us.intellitxt.com
-127.0.0.1 rasmussenreports.us.intellitxt.com
-127.0.0.1 rawstory.us.intellitxt.com
-127.0.0.1 savemanny.us.intellitxt.com
-127.0.0.1 sc.intellitxt.com
-127.0.0.1 siliconera.us.intellitxt.com
-127.0.0.1 slashphone.us.intellitxt.com
-127.0.0.1 soft32.us.intellitxt.com
-127.0.0.1 softpedia.uk.intellitxt.com
-127.0.0.1 somethingawful.us.intellitxt.com
-127.0.0.1 splashnews.uk.intellitxt.com
-127.0.0.1 spymac.us.intellitxt.com
-127.0.0.1 techeblog.us.intellitxt.com
-127.0.0.1 technewsworld.us.intellitxt.com
-127.0.0.1 technologyreview.us.intellitxt.com
-127.0.0.1 techspot.us.intellitxt.com
-127.0.0.1 tgdaily.us.intellitxt.com
-127.0.0.1 the-gadgeteer.us.intellitxt.com
-127.0.0.1 thelastboss.us.intellitxt.com
-127.0.0.1 thetechzone.us.intellitxt.com
-127.0.0.1 thoughtsmedia.us.intellitxt.com
-127.0.0.1 tmcnet.us.intellitxt.com
-127.0.0.1 tomsnetworking.us.intellitxt.com
-127.0.0.1 toms.us.intellitxt.com
-127.0.0.1 tribal.us.intellitxt.com
-127.0.0.1 universetoday.us.intellitxt.com
-127.0.0.1 us.intellitxt.com
-127.0.0.1 warp2search.us.intellitxt.com
-127.0.0.1 wi-fitechnology.uk.intellitxt.com
-127.0.0.1 worldnetdaily.us.intellitxt.com
+1up.us.intellitxt.com
+5starhiphop.us.intellitxt.com
+askmen2.us.intellitxt.com
+bargainpda.us.intellitxt.com
+businesspundit.us.intellitxt.com
+canadafreepress.us.intellitxt.com
+contactmusic.uk.intellitxt.com
+ctv.us.intellitxt.com
+designtechnica.us.intellitxt.com
+devshed.us.intellitxt.com
+digitaltrends.us.intellitxt.com
+dnps.us.intellitxt.com
+doubleviking.us.intellitxt.com
+drizzydrake.us.intellitxt.com
+ehow.us.intellitxt.com
+entertainment.msnbc.us.intellitxt.com
+examnotes.us.intellitxt.com
+excite.us.intellitxt.com
+experts.us.intellitxt.com
+extremetech.us.intellitxt.com
+ferrago.uk.intellitxt.com
+filmschoolrejects.us.intellitxt.com
+filmwad.us.intellitxt.com
+firstshowing.us.intellitxt.com
+flashmagazine.us.intellitxt.com
+foxnews.us.intellitxt.com
+foxtv.us.intellitxt.com
+freedownloadcenter.uk.intellitxt.com
+gadgets.fosfor.se.intellitxt.com
+gamesradar.us.intellitxt.com
+gannettbroadcast.us.intellitxt.com
+gonintendo.us.intellitxt.com
+gorillanation.us.intellitxt.com
+hackedgadgets.us.intellitxt.com
+hardcoreware.us.intellitxt.com
+hardocp.us.intellitxt.com
+hothardware.us.intellitxt.com
+hotonlinenews.us.intellitxt.com
+ign.us.intellitxt.com
+images.intellitxt.com
+itxt2.us.intellitxt.com
+joblo.us.intellitxt.com
+johnchow.us.intellitxt.com
+laptopmag.us.intellitxt.com
+linuxforums.us.intellitxt.com
+maccity.it.intellitxt.com
+macnn.us.intellitxt.com
+macuser.uk.intellitxt.com
+macworld.uk.intellitxt.com
+metro.uk.intellitxt.com
+mobile9.us.intellitxt.com
+monstersandcritics.uk.intellitxt.com
+moviesonline.ca.intellitxt.com
+mustangevolution.us.intellitxt.com
+neowin.us.intellitxt.com
+newcarnet.uk.intellitxt.com
+newlaunches.uk.intellitxt.com
+nexys404.us.intellitxt.com
+ohgizmo.us.intellitxt.com
+pcadvisor.uk.intellitxt.com
+pcgameshardware.de.intellitxt.com
+pcmag.us.intellitxt.com
+pcper.us.intellitxt.com
+penton.us.intellitxt.com
+physorg.uk.intellitxt.com
+physorg.us.intellitxt.com
+playfuls.uk.intellitxt.com
+pocketlint.uk.intellitxt.com
+popularmechanics.us.intellitxt.com
+postchronicle.us.intellitxt.com
+projectorreviews.us.intellitxt.com
+psp3d.us.intellitxt.com
+pspcave.uk.intellitxt.com
+qj.us.intellitxt.com
+rasmussenreports.us.intellitxt.com
+rawstory.us.intellitxt.com
+savemanny.us.intellitxt.com
+sc.intellitxt.com
+siliconera.us.intellitxt.com
+slashphone.us.intellitxt.com
+soft32.us.intellitxt.com
+softpedia.uk.intellitxt.com
+somethingawful.us.intellitxt.com
+splashnews.uk.intellitxt.com
+spymac.us.intellitxt.com
+techeblog.us.intellitxt.com
+technewsworld.us.intellitxt.com
+technologyreview.us.intellitxt.com
+techspot.us.intellitxt.com
+tgdaily.us.intellitxt.com
+the-gadgeteer.us.intellitxt.com
+thelastboss.us.intellitxt.com
+thetechzone.us.intellitxt.com
+thoughtsmedia.us.intellitxt.com
+tmcnet.us.intellitxt.com
+tomsnetworking.us.intellitxt.com
+toms.us.intellitxt.com
+tribal.us.intellitxt.com
+universetoday.us.intellitxt.com
+us.intellitxt.com
+warp2search.us.intellitxt.com
+wi-fitechnology.uk.intellitxt.com
+worldnetdaily.us.intellitxt.com
