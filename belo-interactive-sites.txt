@@ -1,43 +1,43 @@
-127.0.0.1 te.about.com
-127.0.0.1 te.adlandpro.com
-127.0.0.1 te.advance.net
-127.0.0.1 te.ap.org
-127.0.0.1 te.astrology.com
-127.0.0.1 te.audiencematch.net
-127.0.0.1 te.belointeractive.com
-127.0.0.1 te.boston.com
-127.0.0.1 te.businessweek.com
-127.0.0.1 te.chicagotribune.com
-127.0.0.1 te.chron.com
-127.0.0.1 te.cleveland.net
-127.0.0.1 te.ctnow.com
-127.0.0.1 te.dailycamera.com
-127.0.0.1 te.dailypress.com
-127.0.0.1 te.dentonrc.com
-127.0.0.1 te.greenwichtime.com
-127.0.0.1 te.idg.com
-127.0.0.1 te.infoworld.com
-127.0.0.1 te.ivillage.com
-127.0.0.1 te.journalnow.com
-127.0.0.1 te.latimes.com
-127.0.0.1 te.mcall.com
-127.0.0.1 te.mgnetwork.com
-127.0.0.1 te.mysanantonio.com
-127.0.0.1 te.newsday.com
-127.0.0.1 te.nytdigital.com
-127.0.0.1 te.orlandosentinel.com
-127.0.0.1 te.scripps.com
-127.0.0.1 te.scrippsnetworksprivacy.com
-127.0.0.1 te.scrippsnewspapersprivacy.com
-127.0.0.1 te.sfgate.com
-127.0.0.1 te.signonsandiego.com
-127.0.0.1 te.stamfordadvocate.com
-127.0.0.1 te.sun-sentinel.com
-127.0.0.1 te.sunspot.net
-127.0.0.1 te.suntimes.com
-127.0.0.1 te.tbo.com
-127.0.0.1 te.thestar.ca
-127.0.0.1 te.thestar.com
-127.0.0.1 te.trb.com
-127.0.0.1 te.versiontracker.com
-127.0.0.1 te.wsls.com
+te.about.com
+te.adlandpro.com
+te.advance.net
+te.ap.org
+te.astrology.com
+te.audiencematch.net
+te.belointeractive.com
+te.boston.com
+te.businessweek.com
+te.chicagotribune.com
+te.chron.com
+te.cleveland.net
+te.ctnow.com
+te.dailycamera.com
+te.dailypress.com
+te.dentonrc.com
+te.greenwichtime.com
+te.idg.com
+te.infoworld.com
+te.ivillage.com
+te.journalnow.com
+te.latimes.com
+te.mcall.com
+te.mgnetwork.com
+te.mysanantonio.com
+te.newsday.com
+te.nytdigital.com
+te.orlandosentinel.com
+te.scripps.com
+te.scrippsnetworksprivacy.com
+te.scrippsnewspapersprivacy.com
+te.sfgate.com
+te.signonsandiego.com
+te.stamfordadvocate.com
+te.sun-sentinel.com
+te.sunspot.net
+te.suntimes.com
+te.tbo.com
+te.thestar.ca
+te.thestar.com
+te.trb.com
+te.versiontracker.com
+te.wsls.com
